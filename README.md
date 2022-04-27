@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<p><em>Software Developer at <a href="http://picredo.com/">piCredo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at Swop Technologies Dhaka<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Rakibul Islam](https://img.shields.io/badge/-Rakibul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakibulislam39/)](https://www.linkedin.com/in/rakibulislam39/)
