@@ -12,8 +12,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduate in Computer Science and Engineering from University of Asia Pacific.
-- 💼 &nbsp; Working as a Software Developer at Picredo Software Limited.
-- 🌱 &nbsp; Learning more about Machine Learning, React and Firebase.
+- 💼 &nbsp; Working as a Software Engineer at Swop Technologies Dhaka.
+- 🌱 &nbsp; Learning about Machine Learning, React and Crypto.
 
 <h3>🛠 Tech Stack</h3>
 
