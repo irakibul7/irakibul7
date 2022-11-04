@@ -6,7 +6,7 @@
 </em></p>
 
 [![Linkedin: Rakibul Islam](https://img.shields.io/badge/-Rakibul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakibulislam39/)](https://www.linkedin.com/in/rakibulislam39/)
-<a href="mailto:irakibul568@gmail.com"><img alt="Email" src="https://img.shields.io/badge/rakibulislam@picredo.com-informational?style=flat&logo=gmail&logoColor=white"></a>
+<a href="mailto:irakibul568@gmail.com"><img alt="Email" src="https://img.shields.io/badge/irakibul568@gmail.com-informational?style=flat&logo=gmail&logoColor=white"></a>
 [![GitHub Rakibul Islam](https://img.shields.io/github/followers/irakibul7?label=follow&style=social)](https://github.com/irakibul7)
 ![](https://visitor-badge.glitch.me/badge?page_id=irakibul7.irakibul7)
 
