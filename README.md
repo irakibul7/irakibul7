@@ -6,7 +6,7 @@
 </em></p>
 
 [![Linkedin: Rakibul Islam](https://img.shields.io/badge/-Rakibul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakibulislam39/)](https://www.linkedin.com/in/rakibulislam39/)
-<a href="mailto:rakibulislam@picredo.com"><img alt="Email" src="https://img.shields.io/badge/rakibulislam@picredo.com-informational?style=flat&logo=gmail&logoColor=white"></a>
+<a href="mailto:irakibul568@gmail.com"><img alt="Email" src="https://img.shields.io/badge/rakibulislam@picredo.com-informational?style=flat&logo=gmail&logoColor=white"></a>
 [![GitHub Rakibul Islam](https://img.shields.io/github/followers/irakibul7?label=follow&style=social)](https://github.com/irakibul7)
 ![](https://visitor-badge.glitch.me/badge?page_id=irakibul7.irakibul7)
 
@@ -17,11 +17,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | PHP | Java | C 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | Firebase
-- 🔧 &nbsp; Git | Matplotlib
-- 🖥 &nbsp; Andriod Studio | Visual Studio Code | Jupyter Notebook
+- 💻 &nbsp; JavaScript | Node.js | PHP
+- 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS
+- 🛢 &nbsp; MongoDB | MySQL
+- 🔧 &nbsp; Git | PostMan
+- 🖥 &nbsp; Visual Studio Code
 
 <br/>
 
