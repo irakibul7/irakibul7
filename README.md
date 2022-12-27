@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<p><em>Software Engineer at Swop Technologies Dhaka<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at Swop Technologies Limited<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Rakibul Islam](https://img.shields.io/badge/-Rakibul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakibulislam39/)](https://www.linkedin.com/in/rakibulislam39/)
@@ -12,8 +12,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduate in Computer Science and Engineering from University of Asia Pacific.
-- 💼 &nbsp; Working as a Software Engineer at Swop Technologies Dhaka.
-- 🌱 &nbsp; Learning about Machine Learning, React and Crypto.
+- 💼 &nbsp; Software Engineer at Swop Technologies Limited.
+- 🌱 &nbsp; Learning Node.js, React.js, Blockchain, Solidity, Docker.
 
 <h3>🛠 Tech Stack</h3>
 
