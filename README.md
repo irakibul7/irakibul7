@@ -46,14 +46,6 @@ Previously worked with:
 - 🎓 &nbsp; Graduate in Computer Science and Engineering from University of Asia Pacific.
 - 🌱 &nbsp; Learning Blockchain, Solidity, Docker.
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; JavaScript | Node.js | PHP
-- 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS
-- 🛢 &nbsp; MongoDB | MySQL
-- 🔧 &nbsp; Git | PostMan
-- 🖥 &nbsp; Visual Studio Code
-
 <br/>
 
 [![irakibul7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irakibul7&show_icons=true)](https://github.com/irakibul7)
