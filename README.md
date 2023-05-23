@@ -17,50 +17,34 @@ Feel free to explore my repositories to discover the projects I've been working 
 ### Tech Stacks I've worked with
 
 _I'm working **full-stack** focused on **Node.js** & **Next.js**_
+```yaml
+Skills and Expertise:
+  Languages:
+  - JavaScript, TypeScript
+  Frontend:
+  - React, Next
+  - Redux, React-Query, SWR, Framer-Motion
+  Styling/Component-library:
+  - Tailwind CSS, Emotion, Styled Components, CSS3, Sass
+  - Chakra-UI
+  Backend:
+  - Express, Prisma
+  Web3:
+  - Ethers, Web3.js
+  - Etherium, Polygon
+  CI/CD: GitHub Actions
+  Database:
+  - MySQL, NoSQL, Redis
+Previously worked with:
+- PHP, Laravel, Java
+```
 
-Skills and Expertise
-Languages: JavaScript, TypeScript
-Frontend: React, Next, Astro, Svelte, SolidJS
-State Management: Recoil, Jotai, Redux, React-Query, SWR
-Animation: Framer-Motion
-Styling/Component-library: Tailwind CSS, Emotion, Styled Components, CSS3, Sass
-UI Libraries: Chakra-UI, Radix-UI, Headless-UI, CVA, Storybook
-Backend: tRPC, Serverless-Stack, Prisma
-Web3: Ethers, Web3.js, Wagmi, Rainbow-Kit, IPFS, Web3.storage
-Blockchain Platforms: Ethereum, Celo, Polygon
-CI/CD: GitHub Actions, CircleCI
-
-graph LR
-
-subgraph Skills
-    Languages[Languages]
-    Frontend[Frontend]
-    StateMgmt[State Management]
-    Animation[Animation]
-    Styling[Styling/Component-library]
-    UIBrands[UI Libraries]
-    Backend[Backend]
-    Web3[Web3]
-    Blockchain[Blockchain Platforms]
-    CI/CD[CI/CD]
-
-    Languages --> JavaScript, TypeScript
-    Frontend --> React, Next, Astro, Svelte, SolidJS
-    StateMgmt --> Recoil, Jotai, Redux, React-Query, SWR
-    Animation --> Framer-Motion
-    Styling --> Tailwind CSS, Emotion, Styled Components, CSS3, Sass
-    UIBrands --> Chakra-UI, Radix-UI, Headless-UI, CVA, Storybook
-    Backend --> tRPC, Serverless-Stack, Prisma
-    Web3 --> Ethers, Web3.js, Wagmi, Rainbow-Kit, IPFS, Web3.storage
-    Blockchain --> Ethereum, Celo, Polygon
-    CI/CD --> GitHub Actions, CircleCI
-end
+### Things you might wanna know
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduate in Computer Science and Engineering from University of Asia Pacific.
-- 💼 &nbsp; Software Engineer at Swop Technologies Limited.
-- 🌱 &nbsp; Learning Node.js, React.js, Blockchain, Solidity, Docker.
+- 🌱 &nbsp; Learning Blockchain, Solidity, Docker.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -73,5 +57,3 @@ end
 <br/>
 
 [![irakibul7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irakibul7&show_icons=true)](https://github.com/irakibul7)
-
-⭐️ From [irakibul7](https://github.com/irakibul7)
