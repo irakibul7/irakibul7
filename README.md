@@ -1,12 +1,12 @@
-# Hi 👋, Rakibul here!
+# Hi 👋, I'm Rakibul Islam
 
-## Software Engineer @Swop
+## Software Engineer | Full Stack Developer | Blockchain Developer
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me
 
-I'm passionate about developing **WebApps** and **APIs** using **JavaScript**, **Node.js**, and **Next.js**. Working at [Swop Technologies](https://swopme.co), a **Web3/Crypto** startup based in the US, where I contribute to the development of innovative products.
+I'm a passionate Software Engineer with extensive experience in blockchain development and delivering impactful projects. Currently spearheading the development of a Web3 decentralized wallet at Swop Technologies, adeptly utilizing Ethereum, Polygon, and Solana blockchains. I'm proficient in backend development using Node.js and Express.js, as well as working with NGINX, Redis, and CI/CD pipelines with Jenkins.
 
-My expertise lies in creating REST APIs, building web applications, Dockerizing applications for easy deployment, and exploring the exciting Web3 ecosystem. I am constantly honing my skills and expanding my knowledge by learning new technologies and building new stuff.
+My expertise lies in creating RESTful APIs, building web applications, Dockerizing applications for easy deployment, and exploring the exciting Web3 ecosystem. I'm constantly honing my skills and expanding my knowledge by learning new technologies and building innovative solutions.
 
 Feel free to explore my repositories to discover the projects I've been working on. I'm always excited to collaborate on open-source initiatives and contribute to the developer community. Let's connect and create something amazing together!
 
@@ -16,36 +16,36 @@ Feel free to explore my repositories to discover the projects I've been working 
 
 ### Tech Stacks I've worked with
 
-_I'm working **full-stack** focused on **Node.js** & **Next.js**_
 ```yaml
 Skills and Expertise:
   Languages:
-  - JavaScript, TypeScript
+    - JavaScript, TypeScript, Solidity, PHP
   Frontend:
-  - React, Next
-  - Redux, React-Query, SWR, Framer-Motion
-  Styling/Component-library:
-  - Tailwind CSS, Emotion, Styled Components, CSS3, Sass
-  - Chakra-UI
+    - React, Next.js
+    - Tailwind CSS
   Backend:
-  - Express, Prisma
-  Web3:
-  - Ethers, Web3.js
-  - Etherium, Polygon
-  CI/CD: GitHub Actions
+    - Node.js, Express.js
+    - Laravel
+  Blockchain:
+    - Ethereum, Polygon, Solana
+    - Ethers.js, Web3.js, ENS, Smart Contracts
   Database:
-  - MySQL, NoSQL, Redis
-Previously worked with:
-- PHP, Laravel, Java
+    - MongoDB, MySQL, PostgreSQL
+  DevOps & Tools:
+    - Docker, NGINX, Jenkins, Redis
+    - Git, GitHub, DigitalOcean, Postman
+  Project Management:
+    - Agile, Jira, Notion
 ```
 
-### Things you might wanna know
+### Things you might want to know
 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Graduate in Computer Science and Engineering from University of Asia Pacific.
-- 🌱 &nbsp; Learning Blockchain, Solidity, Docker.
-
-<br/>
+- 🏢 Currently working as a Software Engineer at Swop Technologies.
+- 🚀 Leading the development of a Web3 decentralized wallet.
+- 🌐 Experienced in building serverless applications using Cloudflare Workers and D1 database.
+- 🎓 B.Sc. in Computer Science and Engineering from University of Asia Pacific.
+- 🌱 Constantly learning and improving my skills in blockchain technologies and full-stack development.
 
 [![irakibul7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irakibul7&show_icons=true)](https://github.com/irakibul7)
+
+Feel free to reach out to me at irakibul568@gmail.com or +8801686121793. You can also visit my portfolio at [therakibul.me](https://therakibul.me).
