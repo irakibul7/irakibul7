@@ -1,13 +1,9 @@
 # Hi 👋, I'm Rakibul Islam
-
 [🔗 LinkedIn — Rakibul Islam](https://www.linkedin.com/in/rakibulislam39/)
-
 ## Senior Backend & Blockchain Developer
-
 Senior Backend & Blockchain Developer — 6+ years building scalable backend services and Web3 solutions. I specialize in Node.js (NestJS/Express), distributed systems, and blockchain integrations across EVM and Solana. I design resilient APIs, event‑driven architectures, and high‑throughput services, and I lead teams to deliver secure, production‑grade platforms.
-
 ### 👨🏻‍💻 About Me
-I’m a Senior Backend & Blockchain Developer focused on designing, building, and scaling backend platforms and Web3 products. I currently lead backend initiatives at Swop Technologies, where I architect services, mentor engineers, and ship features that power real‑time apps and crypto products.
+I'm a Senior Backend & Blockchain Developer focused on designing, building, and scaling backend platforms and Web3 products. I currently lead backend initiatives at Swop Technologies, where I architect services, mentor engineers, and ship features that power real‑time apps and crypto products.
 
 What I bring:
 - Backend: Node.js, TypeScript, NestJS/Express, REST/GraphQL, WebSockets, gRPC
@@ -21,28 +17,25 @@ Recent highlights:
 - Delivered real‑time chat and backend services for product suites, improving reliability, throughput, and developer velocity.
 - Drove API hardening, performance tuning, and CI/CD automation to reduce regressions and speed up releases.
 
-I’m currently focused on backend services, blockchain solutions, and leading technical projects end‑to‑end. I enjoy collaborating on pragmatic architectures and contributing to high‑impact, production systems.
+I'm currently focused on backend services, blockchain solutions, and leading technical projects end‑to‑end. I enjoy collaborating on pragmatic architectures and contributing to high‑impact, production systems.
 
 ### Tech Stacks I've worked with
 ```yaml
 Skills and Expertise:
   Languages:
-    - JavaScript, TypeScript, Solidity, PHP
-  Frontend:
-    - React, Next.js
-    - Tailwind CSS
+    - JavaScript (ES6+), TypeScript, Solidity, Python, Bash/Shell
   Backend:
-    - Node.js, Express.js, NestJS
+    - Node.js (Express, NestJS), REST & GraphQL APIs, WebSockets, gRPC, event-driven architecture, microservices (NX), scaling and DevOps
   Blockchain:
-    - Ethereum, Polygon, Solana
-    - Ethers.js, Web3.js, Anchor, ENS, Smart Contracts
-  Database:
-    - MongoDB, MySQL, PostgreSQL
-  DevOps & Tools:
-    - Docker, NGINX, Jenkins, GitHub Actions, Redis
-    - Git, GitHub, DigitalOcean, Postman
-  Project Management:
-    - Agile, Jira, Notion
+    - Ethereum (EVM), Polygon, Solana, ERC-20/721/1155/4337, smart contracts, Ethers.js, Web3.js, Anchor, WalletConnect
+  Frontend:
+    - React.js, Next.js, Tailwind CSS
+  Databases:
+    - PostgreSQL, MySQL, MongoDB, Redis (Upstash/self-hosted)
+  Infrastructure / DevOps:
+    - Docker, Kubernetes, DigitalOcean, Vercel, NGINX, GitHub Actions, CI/CD, Cloudflare Workers & D1, observability & monitoring
+  Tools & Ecosystem:
+    - Git/GitHub, Postman, Stripe/Payments APIs, Alchemy, Firebase Admin, Redis (Upstash & self-hosted), Jira, Notion
 ```
 
 ### Things you might want to know
