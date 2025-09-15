@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rakibul Islam
 [🔗 LinkedIn — Rakibul Islam](https://www.linkedin.com/in/rakibulislam39/)
 ## Senior Backend & Blockchain Developer
-Senior Backend & Blockchain Developer — 6+ years building scalable backend services and Web3 solutions. I specialize in Node.js (NestJS/Express), distributed systems, and blockchain integrations across EVM and Solana. I design resilient APIs, event‑driven architectures, and high‑throughput services, and I lead teams to deliver secure, production‑grade platforms.
+Senior Backend & Blockchain Developer — 5+ years building scalable backend services and Web3 solutions. I specialize in Node.js (NestJS/Express), distributed systems, and blockchain integrations across EVM and Solana. I design resilient APIs, event‑driven architectures, and high‑throughput services, and I lead teams to deliver secure, production‑grade platforms.
 ### 👨🏻‍💻 About Me
 I'm a Senior Backend & Blockchain Developer focused on designing, building, and scaling backend platforms and Web3 products. I currently lead backend initiatives at Swop Technologies, where I architect services, mentor engineers, and ship features that power real‑time apps and crypto products.
 
