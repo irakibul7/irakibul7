@@ -1,50 +1,133 @@
-# Hi 👋, I'm Rakibul Islam
-[🔗 LinkedIn — Rakibul Islam](https://www.linkedin.com/in/rakibulislam39/)
-## Senior Backend & Blockchain Developer
-Senior Backend & Blockchain Developer — 5+ years building scalable backend services and Web3 solutions. I specialize in Node.js (NestJS/Express), distributed systems, and blockchain integrations across EVM and Solana. I design resilient APIs, event‑driven architectures, and high‑throughput services, and I lead teams to deliver secure, production‑grade platforms.
-### 👨🏻‍💻 About Me
-I'm a Senior Backend & Blockchain Developer focused on designing, building, and scaling backend platforms and Web3 products. I currently lead backend initiatives at Swop Technologies, where I architect services, mentor engineers, and ship features that power real‑time apps and crypto products.
+<p align="center">
+  <a href="https://linkedin.com/in/rakibulislam39"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:irakibul568@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-What I bring:
-- Backend: Node.js, TypeScript, NestJS/Express, REST/GraphQL, WebSockets, gRPC
-- Blockchain: EVM (Ethereum, Polygon), Solana, smart contracts, wallet & token flows, Ethers.js, Web3.js, Anchor
-- Data & Infra: PostgreSQL, MySQL, MongoDB, Redis, message queues, caching, rate‑limiting
-- DevOps: Docker, NGINX, CI/CD (Jenkins/GitHub Actions), observability, Cloudflare Workers/D1
-- Architecture: Domain‑driven design, event‑driven systems, microservices/monoliths, security best practices
+---
 
-Recent highlights:
-- Led development of a decentralized wallet initiative, integrating EVM and Solana flows with secure key management and transaction pipelines.
-- Delivered real‑time chat and backend services for product suites, improving reliability, throughput, and developer velocity.
-- Drove API hardening, performance tuning, and CI/CD automation to reduce regressions and speed up releases.
+## 🧠 What I Build
 
-I'm currently focused on backend services, blockchain solutions, and leading technical projects end‑to‑end. I enjoy collaborating on pragmatic architectures and contributing to high‑impact, production systems.
+I architect and ship **production-grade distributed systems, AI-powered platforms, and fintech infrastructure** with 6+ years of hands-on experience.
 
-### Tech Stacks I've worked with
-```yaml
-Skills and Expertise:
-  Languages:
-    - JavaScript (ES6+), TypeScript, Solidity, Python, Bash/Shell
-  Backend:
-    - Node.js (Express, NestJS), REST & GraphQL APIs, WebSockets, gRPC, event-driven architecture, microservices (NX), scaling and DevOps
-  Blockchain:
-    - Ethereum (EVM), Polygon, Solana, ERC-20/721/1155/4337, smart contracts, Ethers.js, Web3.js, Anchor, WalletConnect
-  Frontend:
-    - React.js, Next.js, Tailwind CSS
-  Databases:
-    - PostgreSQL, MySQL, MongoDB, Redis (Upstash/self-hosted)
-  Infrastructure / DevOps:
-    - Docker, Kubernetes, DigitalOcean, Vercel, NGINX, GitHub Actions, CI/CD, Cloudflare Workers & D1, observability & monitoring
-  Tools & Ecosystem:
-    - Git/GitHub, Postman, Stripe/Payments APIs, Alchemy, Firebase Admin, Redis (Upstash & self-hosted), Jira, Notion
-```
+- **AI & LLM Engineering:** RAG pipelines, AI agents (LangChain/LangGraph), structured-output validation, evaluation harnesses, provider gateways — achieving **93.3% precision / 87.5% recall** at 100% citation conformance
+- **Distributed Systems:** Event-driven architecture, microservices, transactional outbox, background workers (BullMQ), multi-tenant isolation, API & domain modeling
+- **Blockchain & Fintech:** Multi-chain wallets (EVM, Solana), smart contracts, idempotent payment flows, automated reconciliation, Stripe integrations
+- **Platform Engineering:** CI/CD, observability (OpenTelemetry), Kubernetes, performance tuning, security hardening
 
-### Things you might want to know
-- 🏢 Currently working at Swop Technologies, leading backend initiatives.
-- 🚀 Leading the development of a Web3 decentralized wallet across EVM and Solana.
-- 🌐 Experienced in building serverless and edge applications using Cloudflare Workers and D1 database.
-- 🎓 B.Sc. in Computer Science and Engineering from University of Asia Pacific.
-- 🌱 Always learning and improving in distributed systems and blockchain.
+---
 
-[![irakibul7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irakibul7&show_icons=true)](https://github.com/irakibul7)
+## 🛠 Tech Stack
 
-Feel free to reach out to me at irakibul568@gmail.com or +8801686121793. You can also visit my portfolio at [therakibul.me](https://therakibul.me).
+**Languages & Runtime**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
+
+**AI & Data**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Blockchain**
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERC--20%2F721%2F1155%2F4337-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+</p>
+
+**DevOps & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irakibul7&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Architecture Work
+
+> **Note:** Most of my production work is in private repositories. Below are architecture deep-dives and open-source contributions that demonstrate my approach.
+
+### RAG Pipeline & AI Agent Architecture
+- Designed evaluation harnesses for retrieval pipelines with structured-output validation
+- Built deterministic pricing engines with <0.56% variance using schema-constrained LLM outputs
+- Implemented deny-by-default feature flags and per-capability kill switches for AI safety
+
+### Distributed Job Queue & Event-Driven Systems
+- Architected Redis-backed distributed queues (BullMQ) for wallet indexing and order fulfillment
+- Designed transactional outbox patterns for durable, at-least-once processing
+- Built real-time Socket.IO layers streaming order status and on-chain confirmations
+
+### Multi-Chain Wallet & Fintech Infrastructure
+- Engineered secure payment flows across Stripe and crypto rails with webhook verification
+- Implemented automated reconciliation systems reducing manual billing effort by 60%
+- Architected multi-tenant isolation with row-level security and per-tenant vector stores
+
+---
+
+## 📈 Impact Metrics
+
+| Metric | Result |
+|--------|--------|
+| RAG Pipeline Precision | **93.3%** |
+| RAG Pipeline Recall | **87.5%** |
+| API Response Improvement | **40% faster** under peak load |
+| Deployment Lead Time | **70% shorter** via CI/CD |
+| Environment Setup Time | **80% faster** with Docker |
+| Platform Uptime | **>99.9%** |
+| Manual Billing Reduction | **60%** via automation |
+| Pricing Engine Accuracy | **<0.56%** variance |
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/rakibulislam39)
+- 🌐 [Portfolio](https://therakibul.me)
+- 📧 [Email](mailto:irakibul568@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=100&section=footer" />
+</p>
